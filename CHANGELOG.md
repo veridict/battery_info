@@ -35,7 +35,7 @@
 * Minor bug fix
 * Updated documentation with available battery info for both platforms
 
-## 1.0.7 
+## 1.0.7
 
 * Removed platform interface
 
@@ -46,3 +46,7 @@
 ## 1.1.1
 
 * Small bug fix for battery health naming
+
+## 1.2.0
+
+* Update Gradle and Kotlin plugins
